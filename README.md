@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohannad Darwish</h1>
 <h3 align="center">Determined Cybersecurity Expert</h3>
 
-- 🔭 I’m currently working on [Hacked Machine Restoration](https://github.com/mdarwish2020/cybersecurity-final-project/tree/main)
+- 🔭 I’m currently working on [Compromised Server Restoration](https://github.com/mdarwish2020/cybersecurity-final-project/tree/main)
 
 - 🌱 I’m currently learning on **TryHackMe and HackTheBox**
 
